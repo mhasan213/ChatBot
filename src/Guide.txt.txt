@@ -1,0 +1,6 @@
+First of all the user has to type something in the program. 
+RUKIA will then take the input and then compare it with the words that are stored in her program.
+ If she finds a match she will print the answer that is linked with the word.
+ But however if the input the user gives is not within the coding of RUKIA will print that she does not know the answer. 
+The other functions that are added in the chatbot are a random number generator game, a multiplication for any digits, an addition and a subtraction to help the user whenever he or she needs the urge to calculate something simple. 
+The random number generator works as an entertain purpose for the user as the user will have to input a number and then the function will calculate a random game 
